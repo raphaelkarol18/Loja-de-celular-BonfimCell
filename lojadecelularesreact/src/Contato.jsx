@@ -37,7 +37,7 @@ function Contato() {
       <p><strong>Endereço:</strong></p>
       <p>Rua Exemplo, 123, Centro<br/>Cidade, Estado - CEP 00000-000</p>
 
-      <p><strong>Horário de Atendimento:</strong></p>
+      <p><strong>Horário de Atendimento na loja:</strong></p>
       <p>Segunda a Sexta: 08h às 18h<br/>Sábados: 09h às 13h<br/>Domingos e feriados: fechado</p>
 
       <p><strong>Redes Sociais da empresa:</strong></p>
