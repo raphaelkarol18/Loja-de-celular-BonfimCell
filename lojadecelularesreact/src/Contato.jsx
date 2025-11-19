@@ -40,7 +40,7 @@ function Contato() {
       <p><strong>Horário de Atendimento:</strong></p>
       <p>Segunda a Sexta: 08h às 18h<br/>Sábados: 09h às 13h<br/>Domingos e feriados: fechado</p>
 
-      <p><strong>Redes Sociais:</strong></p>
+      <p><strong>Redes Sociais da empresa:</strong></p>
       <ul>
         <li><a href="https://instagram.com/bonfimcell" target="_blank" rel="noreferrer">Instagram</a></li>
         <li><a href="https://facebook.com/bonfimcell" target="_blank" rel="noreferrer">Facebook</a></li>
