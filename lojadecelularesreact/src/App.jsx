@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
+import './App.css';
 
 const logo =
   "https://cdn-icons-png.flaticon.com/512/1042/1042339.png";
