@@ -1,21 +1,10 @@
-// src/App.jsx
+import React from "react";
 
-// 1. Importa o seu componente Contato:
-// O caminho './Contato.jsx' está correto se ele e App.jsx estão no mesmo nível (src/)
-import Contato from './Contato.jsx'; 
-
-// Importa o arquivo CSS
-import './App.css';
-
-// Componente principal da aplicação
-function App() {
-  
-  // 2. O componente App agora renderiza APENAS o seu componente Contato
+export default function App() {
   return (
-    <>
-      <Contato />
-    </>
+    <div style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h1>BonfimCell 📱</h1>
+      <p>Sua loja de celulares em React + Vite!</p>
+    </div>
   );
 }
-
-export default App;
